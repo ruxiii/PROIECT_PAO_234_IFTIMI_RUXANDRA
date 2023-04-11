@@ -19,10 +19,10 @@ OBIECTE:
   - Catalog
   - Clasa
   - Persoana
-  - Elev
-  - Profesor
+  - Elev (mosteneste fin Persoana)
+  - Profesor (mosteneste fin Persoana)
   - Profil
-  - MateInfo
-  - StiinteleNaturii
+  - MateInfo (mosteneste fin Profil)
+  - StiinteleNaturii (mosteneste fin Profil)
   - LiceuService
   - Main
